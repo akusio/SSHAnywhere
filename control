@@ -1,0 +1,9 @@
+Package: jp.akusio.sshanywhere
+Name: SSHanywhere
+Version: 0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @akusio_rr
+Author: @akusio_rr
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

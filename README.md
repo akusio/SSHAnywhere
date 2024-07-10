@@ -12,3 +12,8 @@ See Tweak.x for sample code.
 
 # License
 MIT
+
+# Credits
+libssh2.1 binary and header from [ProcursusTeam](https://github.com/ProcursusTeam)
+
+libssh2.1 license is [libssh2](https://libssh2.org/license.html)
